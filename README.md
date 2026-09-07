@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sean Yihao</h1>
+<h1 align="center">Hi, I'm Sean</h1>
 
 <p align="center">
   Full-Stack Developer · Building AI-powered products
